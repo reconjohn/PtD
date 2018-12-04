@@ -24,7 +24,7 @@ output:
 * Additional: setback, snow guard, guardrail `fall`
 * Electrical: micro inverter, conduit pre-run, reserving spaces, `electric shock, complexity`
 
-## Survey (linkert scale)
+## Survey (likert scale)
 * Relevance to risk
 * Applicability
 * Cost-effectiveness
