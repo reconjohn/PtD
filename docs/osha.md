@@ -4,3 +4,6 @@
 * Ladder: angle 75 degree, one-quarter the working length of the ladder (a 1:4 ratio) (29 CFR 1926.1053(b)(5)(i)). 3 rungs (1 ft apart) above the roof, The side rails of the ladder generally must extend at least 3 feet above the upper landing surface that the worker is trying to access (29 CFR 1926.1053(b)(1)).
 
 * Anchor: OSHA standard regarding anchorages can be found in 29 CFR 1926.502(d)(15)
+> OSHA 1926.501(b)(10): ... each employee engaged in roofing activities on low-slope roofs, with unprotected sides and edges 6 feet (1.8 m) or more above lower levels shall be protected from falling by guardrail systems, safety net systems, personal fall arrest systems, or a combination of warning line system and guardrail system, warning line system and safety net system, or warning line system and personal fall arrest system, or warning line system and safety monitoring system. Or, on roofs 50-feet (15.25 m) or less in width (see Appendix A to subpart M of this part), the use of a safety monitoring system alone [i.e. without the warning line system] is permitted.
+
+> OSHA 1926.501(b)(11): ... Each employee on a steep roof with unprotected sides and edges 6 feet (1.8 m) or more above lower levels shall be protected from falling by guardrail systems with toeboards, safety net systems, or personal fall arrest systems.

@@ -94,3 +94,24 @@ In terms of roof pitch in:
 | 4/12 lower | Normal     | Good     | Nomral      | Good          | Normal    |
 | 8/12 lower | Good       | Good     | Bad         | Normal        | Bad       |
 | Higher     | Bad        | Normal   | Very Bad    | Bad           | Very Bad  |
+
+| Features   | Items                   |
+| ---------- | ----------------------- |
+| Pitch      | Flat                    |
+|            | Lower than 4/12 or 8/12 |
+|            | Higher                  |
+| Material   | Tile, shake             |
+|            | Composition             |
+|            | Metal                   |
+|            | TPO                     |
+| Acess      | Tie off                 |
+|            | Snow guard              |
+|            | Guardrail               |
+|            | Scaffolding             |
+|            | Ladder                  |
+| Electrical | String inverter         |
+|            | Micro inverter          |
+|            | Behind the meter        |
+|            | Stand alone             |
+|            | Conduit pre-run         |
+|            | Equipment location      |
