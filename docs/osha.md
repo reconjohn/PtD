@@ -7,3 +7,8 @@
 > OSHA 1926.501(b)(10): ... each employee engaged in roofing activities on low-slope roofs, with unprotected sides and edges 6 feet (1.8 m) or more above lower levels shall be protected from falling by guardrail systems, safety net systems, personal fall arrest systems, or a combination of warning line system and guardrail system, warning line system and safety net system, or warning line system and personal fall arrest system, or warning line system and safety monitoring system. Or, on roofs 50-feet (15.25 m) or less in width (see Appendix A to subpart M of this part), the use of a safety monitoring system alone [i.e. without the warning line system] is permitted.
 
 > OSHA 1926.501(b)(11): ... Each employee on a steep roof with unprotected sides and edges 6 feet (1.8 m) or more above lower levels shall be protected from falling by guardrail systems with toeboards, safety net systems, or personal fall arrest systems.
+
+## Incident reports
+A recent incident cited by OSHA about fatal electrocution leading to the company facing panelties at Kansas.
+
+>"This tragedy could have been prevented if the employer had complied with electrical standards that require maintaining a safe distance from unprotected energized power lines, training employees, and providing personal protective equipment," said OSHA Wichita Area Director Ryan Hodge.

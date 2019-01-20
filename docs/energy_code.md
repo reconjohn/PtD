@@ -3,6 +3,12 @@
 ### Title 24 vs. IECC
 Each state should satisfy at least the requirements from federal government's energy standard, which is in gerneral `International Energy Conservation Code (IECC)`. CA has a `2016 Building Energy Efficiency Standards Title 24, Part 6`, which exceeds the performance of 2015 IECC.
 
+> ICC codes:
+* International Building Code (IBC)
+* International Residential Code (IRC)
+* International Fire Code (IFC)
+* International Energy Conservation Code (IECC)
+
 ### 2018 IECC
 The newly updated `APPENDIX RA SOLAR-READY PROVISIONS—DETACHED ONE- AND TWOFAMILY DWELLINGS, MULTIPLE SINGLE-FAMILY DWELLINGS (TOWNHOUSES)` has solar ready requirements.
 

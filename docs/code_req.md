@@ -1,6 +1,15 @@
 ## Code requirements for solar installation
 It is necessary to study code requirments of solar installation, which are going to impact on the arrangement when the house is ready to install the solar system. By examining the code requirements, it could be further studied how to apply those requirements in advance such that it will alleviate the burden to meet the requirements.
 
+> ICC codes:
+* International Building Code (IBC)
+* International Residential Code (IRC)
+* International Fire Code (IFC)
+* International Energy Conservation Code (IECC)
+
+> NFPA code:
+NEC (national electric code)
+
 ### Building code
 If met by the below conditions, building permit is not required.
 
@@ -38,7 +47,7 @@ If met by the below conditions, building permit is not required.
 If met by the conditions below, it will be waived.
 * Having an automated fire sprinkler
 * Roof pitch <= 2:12
-* System area < 33% total roof area (less than 1,000 sf), but * with 18" pathway from ridge
+* System area < 33% total roof area (less than 1,000 sf), but with 18" pathway from ridge
 * Detached, noninhabitable such as storage shed
 
 If not met, then access points to be,
@@ -61,3 +70,19 @@ If not met, then access points to be,
 ### Land use code
 
 * Lot coverage, height, and yard setbaks (for single family, 4, 3, 15 and 5 ft for height, side, rear, and other structures)
+
+## Electrical code
+
+### Outside conduit
+If protection sections are not more than 10 ft or 10 % of  the circuit length, then free air ampacities can be used. NEC 310.15(A)(2)
+
+If 4 - 6 current carrying conductors are bundled in the same conduit, 80 % adjustment is needed for conduit fill. NEC Table 310.15(B)(3)(a)
+
+### Conduit fill
+NFPA 70 NEC, Article 310
+
+### Conduit type
+NFPA 70 NEC, Article 690
+
+### Conduit size
+NFPA 70 NEC, Article 300
