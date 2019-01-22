@@ -1,4 +1,4 @@
-## Code requirements for solar installation
+# Code requirements for solar installation
 It is necessary to study code requirments of solar installation, which are going to impact on the arrangement when the house is ready to install the solar system. By examining the code requirements, it could be further studied how to apply those requirements in advance such that it will alleviate the burden to meet the requirements.
 
 > ICC codes:
@@ -10,14 +10,15 @@ It is necessary to study code requirments of solar installation, which are going
 > NFPA code:
 NEC (national electric code)
 
-### Building code
+## Building code
+```
 If met by the below conditions, building permit is not required.
 
-#### Siting
+Siting
 * System on rooftop
 * System on single family residential	house
 
-#### Roof structure
+Roof structure
 * Engineered mounting
 * Specified mounting attachment
 * Method of waterproofing
@@ -26,30 +27,31 @@ If met by the below conditions, building permit is not required.
 * Dead weight	< 5 lb/ sf
 * System < 50 lb on a single section
 
-#### Land use
+Land use
 * Setback (yard), height limit
+```
 
-### Fire code (electrical)
+## Fire code (electrical)
 
-#### DC conductors
+### DC conductors
 * All wire systems close to ridge, hip or valley
 * DC wiring run in enclousres such as conduit, raceways
 * Minimum conduits from arrays to DC combiner box
 
 > IFC 605.11.1.2: Conduit, wiring systems, raceways for photovoltaic circuits shall be located as close as possible to the ridge or hip or valley, and from the hip or valley as directly as possible to outside wall to reduce trip hazard and maximize ventilation opportunity.
 
-#### Marking and signage
+### Marking and signage
 * Marking requirements and weather resistant
 * Waived if met by rapid shutdown
 
-#### Access and pathway
-
+### Access and pathway
+```
 If met by the conditions below, it will be waived.
 * Having an automated fire sprinkler
 * Roof pitch <= 2:12
 * System area < 33% total roof area (less than 1,000 sf), but with 18" pathway from ridge
 * Detached, noninhabitable such as storage shed
-
+```
 If not met, then access points to be,
 * At strong points
 * Not requiring for ground ladders over openings
@@ -67,14 +69,14 @@ If not met, then access points to be,
 
 > IFC 605.11.3.2.4 Residential buildings with smoke ventilation. Panels/modules installed on residential buildings shall be located no higher than 3 feet below the ridge in order to allow for fire department smoke ventilation operations.
 
-### Land use code
+## Land use code
 
 * Lot coverage, height, and yard setbaks (for single family, 4, 3, 15 and 5 ft for height, side, rear, and other structures)
 
 ## Electrical code
 
 ### Outside conduit
-If protection sections are not more than 10 ft or 10 % of  the circuit length, then free air ampacities can be used. NEC 310.15(A)(2)
+If protection sections are not more than 10 ft or 10 % of the circuit length, then free air ampacities can be used. NEC 310.15(A)(2)
 
 If 4 - 6 current carrying conductors are bundled in the same conduit, 80 % adjustment is needed for conduit fill. NEC Table 310.15(B)(3)(a)
 
