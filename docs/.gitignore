@@ -1,6 +1,3 @@
-report.html
-Agenda.docx
-Agenda.html
-interim.docx
-interim.pdf
-interim.html
+*.html
+*.docx
+*.pdf

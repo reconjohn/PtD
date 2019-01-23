@@ -26,6 +26,7 @@ CA requires PV installation on the new construction and solar ready for those wh
 * If townhouses, > 150 sf (IECC)
 * In general, > 250 sf (CEC)
 > Roof area > 600 sf (IECC)
+> Exclusive of setback as required by fire code
 
 ### Sub-area
 * Dimension > 5 ft
@@ -41,11 +42,11 @@ CA requires PV installation on the new construction and solar ready for those wh
 
 ## Document
 ### Loads
-* In general, information disclosure of roof dead and live load
+* Indicate the information disclosure of roof dead and live load
 * Designed with PV > 4 lb/ sq (Seattle residential code 2017)
 
 ### Interconnection
-* Location of reserved electrical BOS, conduit route information
+* Indicate the location of reserved electrical BOS, conduit route and pathway information
 
 ### Documentation
 * Provide to occupants (CEC)
