@@ -16,15 +16,15 @@ header-includes:
 
 
 
-## Survey introduction 
+## Survey introduction
 
 This survey consists of 9 questions and will take about 5 minutes to complete.
 
-Assuming a new residential housing construction of single family or multi-family under 3 stories, please select the most desirable option in each feature based on each evaluation criteria such that the house will install a solar system on the roof in the future. 
+Assuming a new residential housing construction of single family or multi-family under 3 stories, please select the most desirable option in each feature based on each evaluation criteria such that the house will install a solar system on the roof in the future.
 
 ### Building components/ solar system features
-* Solar zone features are area, material and pitch of the roof where the solar zone is on. 
-* Installation features consist of fall protection, access to roof and electrical conduit run for solar system installation. 
+* Solar zone features are area, material and pitch of the roof where the solar zone is on.
+* Installation features consist of fall protection, access to roof and electrical conduit run for solar system installation.
 * Solar system features are inverter and mounting type.
 
 > Solar zone is a designated area for the future installation of solar panels on the roof or overhang without interruption of shades, penetrations, and obstructions.
@@ -34,9 +34,9 @@ Assuming a new residential housing construction of single family or multi-family
 * Applicability: which feature can be applied the easiest in practical.
 * Cost-effectiveness: which feature is the most economical.
 
-## Survey result 
+## Survey result
 
-### Plot legend 
+### Plot legend
 
 ```
 area
@@ -80,7 +80,7 @@ mount
 2: ballast
 ```
 
-### Survey summary 
+### Survey summary
 
 ![](survey_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
 
@@ -114,7 +114,7 @@ The majority of professionals consider one continuous zone is desirable for all 
 
 Compositions are the most desirable for the safety criteria while metal (standing seam) is the one as far as applicability is concerned. When in comes to the cost-effectiveness compositions and metal are considered almost the same. In general metal is expensive with higher upfront cost. But, with respect to durability and maintenance, metal could be cost-effective as much as compositions.
 
-#### Solzar zone pitch
+#### Solar zone pitch
 
 Flat is the safest feature for the solar zone pitch in the survey. For cost-effectiveness, lower slope is the desirable one.
 
