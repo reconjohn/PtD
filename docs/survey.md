@@ -112,7 +112,7 @@ The majority of professionals consider one continuous zone is desirable for all 
 
 #### Solar zone material
 
-Compositions are the most desirable for the safety criteria while metal (standing seam) is the one as far as applicability is concerned. When in comes to the cost-effectiveness compositions and metal are considered almost the same. In general metal is expensive with higher upfront cost. But, with respect to durability and maintenance, metal could be cost-effective as much as compositions.
+Compositions are the most desirable for the safety criteria while metal (standing seam) is the one as far as applicability is concerned. When it comes to the cost-effectiveness compositions and metal are considered almost the same. In general metal is expensive with higher upfront cost. But, with respect to durability and maintenance, metal could be cost-effective as much as compositions.
 
 #### Solar zone pitch
 
