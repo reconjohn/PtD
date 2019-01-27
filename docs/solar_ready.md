@@ -1,5 +1,5 @@
 ---
-title: "Agenda"
+title: "Solar Ready Houses"
 author: "Yohan Min"
 date: "`r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
