@@ -42,7 +42,9 @@ Land use
 
 ### Marking and signage
 * Marking requirements and weather resistant
-* Waived if met by rapid shutdown
+* Waived if met by rapid
+
+> NEC rapid shutdown: The Section 690.12 update to the 2017 National Electrical Code (NEC) calls for module-level rapid shutdown of solar systems instead of NEC 2014’s array-level shutdown requirement. Starting Jan. 1, 2019 when NEC 2017 goes into effect in certain jurisdictions, all conductors within an array’s 1-ft boundary have to be reduced to 80 V or less within 30 seconds of rapid shutdown initiation.
 
 ### Access and pathway
 ```

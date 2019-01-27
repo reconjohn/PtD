@@ -1,4 +1,4 @@
-# Case study - Net-zero house at 612 NW 60th St., Ballard
+# Case study - Net-zero energy house at 612 NW 60th St., Ballard
 
 Year Built: 2011
 Total Sqft: 1,990 Sqft
