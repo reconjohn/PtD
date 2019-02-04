@@ -230,7 +230,7 @@ Soft cost cut (related labor) features (vs. Germany; Morris, J., K. Calhoun, J. 
 ## Interdependent features 
 * **Solar zone material and pitch**: Roof pitch affects the material to use for roofing. Higher slope would worsen the use of metal roof for safety - `slip`
 * **Solar zone area and pitch**: (1) Roof pitch will decide the complexity of the roof. The steep roof will require less obstruction for the safety of installers - `trip, complexity`; (2) Steep roof requires accessories to be pre-installed to reduce the risk of worker's safety - `complexity`
-* **Fall protection and solar zone pitch**: Sloped roof requires tie-off to be pre-installed before the work starts - `fall`; (2) Other options (e.g., setback, snow guard, guardrail) could be implemented for the steep roof - `fall`
+* **Fall protection and solar zone pitch**: (1) Sloped roof requires tie-off to be pre-installed before the work starts - `fall`; (2) Other options (e.g., setback, snow guard, guardrail) could be implemented for the steep roof - `fall`
 * **Access to roof and solar zone pitch**: Sloped roof requires enough space for easier access - `fall`
 
 ```
