@@ -3,12 +3,12 @@ title: "Checklist"
 author: "Yohan Min"
 date: "`r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
-  word_document:
-  pdf_document:
   html_document:
     keep_md: yes
     preserve_yaml: yes
     number_sections: true
+  pdf_document:
+  word_document:
 ---
 
 
