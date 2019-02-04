@@ -20,6 +20,7 @@ Using mixed methods, the specific tasks of the research are as follows:
 
 * [Survey](https://github.com/reconjohn/PtD/blob/master/docs/survey.md)
 * [Check list](https://github.com/reconjohn/PtD/blob/master/docs/checklist.md)
+* [simple checklist](https://github.com/reconjohn/PtD/blob/master/docs/checklist_sim.md)
 * [Solar installation code](https://github.com/reconjohn/PtD/blob/master/docs/code_req.md)
 * [Solar-ready code](https://github.com/reconjohn/PtD/blob/master/docs/energy_code.md)
 * [OSHA](https://github.com/reconjohn/PtD/blob/master/docs/osha.md)
