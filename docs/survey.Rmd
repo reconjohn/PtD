@@ -43,47 +43,45 @@ Assuming a new residential housing construction of single family or multi-family
 
 ### Plot legend
 
-```
-area
+area (Solar zone area) - 
 1: multi-split zones
 2: one continuous zone
 
-material
+material (Solar zone material) - 
 1: tile or shake
 2: compositions
 3: metal
 4: others
 
-pitch
+pitch (Solar zone pitch) - 
 1: flat
 2: lower
 3: moderate
 4: steep
 
-fall
+fall (Fall protection) - 
 1: hitch clip
 2: roof bracket
 3: lifeline
 4: others
 
-access
+access (Access to roof) -
 1: scaffolding
 2: ladder
 3: mechanical lift
 
-conduit
+conduit (Conduit for the future solar system) - 
 1: running in advance
 2: routes decided but not running
 
-inverter
+inverter (Solar system inverter) -
 1: string
 2: power optimizer
 3: micro
 
-mount
+mount (Solar system mounting) -
 1: rack
 2: ballast
-```
 
 ### Survey summary
 
@@ -147,7 +145,7 @@ Most of respondents vote for running conduits in advance for safety, applicabili
 
 #### Solar system inverter
 
-Micro inverter was chosen as the most desirable for the safety. When it comes to applicability and cost-effectiveness there are not much differences among the features. In practice, depending on the solar system and the roof condition, the desirable inverter would be different. Larger capacity of the system would need string inverters like in commercial projects. Micro inverter and power optimizer are more desirable for smaller systems and more dynamic conditions such as marginal shading and complicated roof. Micro inverter leads to having many electronic components on the zone requiring more maintenance cost. Power optimizer on the other hand, still has a central inverter unlike micro inverter while having the similar performance as the micro inverter. The point is where the DC converts to AC as micro inverter inverts DC to AC on the solar zone which leads to the safest feature among other inverter options.
+Micro inverter was chosen as the most desirable for the safety. When it comes to applicability and cost-effectiveness there are not much differences among the features. In practice, depending on the solar system and the roof condition, the desirable inverter would be different. Larger capacity of the system would need string inverters like in commercial projects. Micro inverter and power optimizer are more desirable for smaller systems and more dynamic conditions such as marginal shading and complicated roof. Micro inverter leads to having many electronic components on the zone requiring more maintenance cost. Power optimizer on the other hand, still has a central inverter unlike micro inverter while having the similar performance as the micro inverter. The point is where the inverter converts DC to AC. Micro inverter does it on the solar zone which leads to the safest feature among other inverter options on electrical safety. On the other hand, micro inverter or optimizer can pose a trip hazard when they are installed on the rails as they entail more wires up on the roof unlike a string inverter, which requires less time on the roof, thus could be safer.  
 
 #### Solar system mounting
 

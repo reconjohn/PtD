@@ -98,7 +98,7 @@ The Twelve Essential Steps to Net Zero Energy with Ted Clifton
 
 ## Solar zone features
 ### Solar zone area
-* No obstruction around the zone to avoid trip hazar
+* No obstruction around the zone to avoid trip hazard
 * Accessories to be pre-installed
 * If complicated roof shape, go for composition, otherwise have simple roof shape
 * Safer to have access gaps between panels
