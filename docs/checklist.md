@@ -1,18 +1,17 @@
 ---
-title: "Checklist"
+title: "Prevention through Design (PtD) to Make Solar-Ready Houses Safe for Solar Workers: Checklist"
 author: "Yohan Min"
-date: "`r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
+  word_document:
+  pdf_document:
   html_document:
     keep_md: yes
     preserve_yaml: yes
     number_sections: true
-  pdf_document:
-  word_document:
 ---
 
 
-# Checklist
+# Checklist based on features
 
 ## Solar zone area
 
@@ -47,7 +46,7 @@ output:
 
 > **Survey: compositions are the most desirable for the safety criteria while metal (standing seam) is the one as far as applicability is concerned. When it comes to the cost-effectiveness compositions and metal are considered almost the same. In general metal is expensive with higher upfront cost. But, with respect to durability and maintenance, metal could be cost-effective as good as compositions.**
 
-* Avoid vulnerable materials (e.g., tile an shake) for the solar system to sits on.
+* Avoid vulnerable materials (e.g., tile and shake) for the solar system to sits on.
 * Check the durability with respect to the expected period to use the solar system (e.g., if the system goes more than 30 years, compositions may be limited).
 * Design the material with supporting bases (e.g., flashing, penetration) of the solar system.
 * To avoid heat stroke of workers in summer, avoid reflected materials.
