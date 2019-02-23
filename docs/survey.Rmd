@@ -1,13 +1,13 @@
 ---
-title: "Survey"
+title: "Survey Result"
 author: "Yohan Min"
 date: "January 22, 2019"
 output:
+  pdf_document: default
+  word_document: default
   html_document:
     df_print: paged
     keep_md: yes
-  word_document: default
-  pdf_document: default
 header-includes:
 - \usepackage{float}
 - \floatplacement{figure}{H}
@@ -32,7 +32,7 @@ Assuming a new residential housing construction of single family or multi-family
 * Installation features consist of fall protection, access to roof and electrical conduit run for solar system installation.
 * Solar system features are inverter and mounting type.
 
-> Solar zone is a designated area for the future installation of solar panels on the roof or overhang without interruption of shades, penetrations, and obstructions.
+> Solar zone refers to a designated area for the future installation of solar panels on the roof or overhang without interruption of shades, penetrations, and obstructions.
 
 ### Evaluation criteria
 * Safety: which feature makes workers most safe from the occupational safety point of view.
@@ -43,43 +43,43 @@ Assuming a new residential housing construction of single family or multi-family
 
 ### Plot legend
 
-area (Solar zone area) - 
+Area (Solar zone area) - 
 1: multi-split zones
 2: one continuous zone
 
-material (Solar zone material) - 
+Material (Solar zone material) - 
 1: tile or shake
 2: compositions
 3: metal
 4: others
 
-pitch (Solar zone pitch) - 
+Pitch (Solar zone pitch) - 
 1: flat
 2: lower
 3: moderate
 4: steep
 
-fall (Fall protection) - 
+Fall (Fall protection) - 
 1: hitch clip
 2: roof bracket
 3: lifeline
 4: others
 
-access (Access to roof) -
+Access (Access to roof) -
 1: scaffolding
 2: ladder
 3: mechanical lift
 
-conduit (Conduit for the future solar system) - 
+Conduit (Conduit for the future solar system) - 
 1: running in advance
 2: routes decided but not running
 
-inverter (Solar system inverter) -
+Inverter (Solar system inverter) -
 1: string
 2: power optimizer
 3: micro
 
-mount (Solar system mounting) -
+Mount (Solar system mounting) -
 1: rack
 2: ballast
 

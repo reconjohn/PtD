@@ -1,3 +1,17 @@
+---
+title: "Energy Code"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+    keep_md: yes
+  word_document: default
+header-includes:
+- \usepackage{float}
+- \floatplacement{figure}{H}
+- \usepackage[fontsize=11pt]{scrextend}
+---
+
 # Energy code
 
 ## Title 24 vs. IECC

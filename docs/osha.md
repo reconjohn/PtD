@@ -1,3 +1,17 @@
+---
+title: "OSHA review"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+    keep_md: yes
+  word_document: default
+header-includes:
+- \usepackage{float}
+- \floatplacement{figure}{H}
+- \usepackage[fontsize=11pt]{scrextend}
+---
+
 ## OSHA
 * Roof slope: OSHA defines a low-slope roof as a roof having a slope of less than or equal to 4 inches of vertical rise for every 12 inches horizontal length (4:12) (1926.500(b)—definitions). This is important because the OSHA definition is used as a basis for implementing low-slope fall-protection measures, such as warningline systems and safety monitors.
 

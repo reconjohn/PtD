@@ -38,47 +38,45 @@ Assuming a new residential housing construction of single family or multi-family
 
 ### Plot legend
 
-```
-area
+area (Solar zone area) - 
 1: multi-split zones
 2: one continuous zone
 
-material
+material (Solar zone material) - 
 1: tile or shake
 2: compositions
 3: metal
 4: others
 
-pitch
+pitch (Solar zone pitch) - 
 1: flat
 2: lower
 3: moderate
 4: steep
 
-fall
+fall (Fall protection) - 
 1: hitch clip
 2: roof bracket
 3: lifeline
 4: others
 
-access
+access (Access to roof) -
 1: scaffolding
 2: ladder
 3: mechanical lift
 
-conduit
+conduit (Conduit for the future solar system) - 
 1: running in advance
 2: routes decided but not running
 
-inverter
+inverter (Solar system inverter) -
 1: string
 2: power optimizer
 3: micro
 
-mount
+mount (Solar system mounting) -
 1: rack
 2: ballast
-```
 
 ### Survey summary
 

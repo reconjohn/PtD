@@ -1,18 +1,15 @@
 ---
-title: "Solar Ready Houses"
-author: "Yohan Min"
-date: "`r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+title: "Solar Ready Safety"
 output:
+  pdf_document: default
   html_document:
+    df_print: paged
     keep_md: yes
-    preserve_yaml: yes
-    toc: yes
-    toc_float: yes
-    number_sections: true
-  pdf_document:
-    toc: yes
-  word_document:
-    toc: yes
+  word_document: default
+header-includes:
+- \usepackage{float}
+- \floatplacement{figure}{H}
+- \usepackage[fontsize=11pt]{scrextend}
 ---
 
 # Survey (likert scale)
