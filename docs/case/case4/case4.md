@@ -42,7 +42,7 @@ header-includes:
 <p align="center">Roof overview in google <p align="center">
 
 <p align="center">
-  <img src="DSC00072.jpg">
+  <img src="DSC00072.JPG">
 </p>
 <p align="center">Site overview <p align="center">
 
