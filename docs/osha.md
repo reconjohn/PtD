@@ -23,6 +23,14 @@ header-includes:
 
 > OSHA 1926.501(b)(11): ... Each employee on a steep roof with unprotected sides and edges 6 feet (1.8 m) or more above lower levels shall be protected from falling by guardrail systems with toeboards, safety net systems, or personal fall arrest systems.
 
+### Guard rail
+The top rails of a guardrail system must be 39 to 45 inches above the walking/working surface (29 CFR 1926.502(b)(1)). Intermediate structural members (for example, midrails or screens) must be installed when there is no wall or parapet wall at least 21 inches high (29 CFR 1926.502(b)(2)). Midrails, when used, must be installed midway between the top edge of the guardrail system and the walking/ working surface (29 CFR 1926.502(b)(2)(i)). 
+
+### Parapets
+Designers should take the following steps to prevent falls from roofs during construction [Gambatese et al. 1997, 2005; OSHA Alliance Program 2010; ICC 2012]
+
+Ensure that parapets meet the OSHA height requirement for guardrails of 42 inches (1.1 meters) plus or minus 3 inches (8cm) above the finished roof surface. An additional 6 inches may be necessary to account for subfloor depth, beams, columns, etc.
+
 ## Incident reports
 A recent incident cited by OSHA about fatal electrocution leading to the company facing panelties at Kansas.
 

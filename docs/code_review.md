@@ -68,11 +68,12 @@ Land use
 If met by the conditions below, it will be waived.
 * Having an automated fire sprinkler
 * Roof pitch <= 2:12
-* System area < 33% total roof area (less than 1,000 sf), but with 18" pathway from ridge
+* System area (less than 1,000 sf) < 33% total roof area, but with 18" pathway from ridge
 * Detached, noninhabitable such as storage shed
 ```
 
 If not met, then access points to be,
+
 * At strong points
 * Not requiring for ground ladders over openings
 * No overhead obstructions
@@ -88,6 +89,9 @@ If not met, then access points to be,
 > IFC 605.11.3.2.3 Residential buildings with roof hips and valleys. Panels/modules installed on residential buildings with roof hips and valleys shall be located no closer than 18 inches to a hip or valley where panels/modules are to be placed on both sides of a hip or valley. Where panels are to be located on only one side of a hip or valley that is of equal length, the panels shall be permitted to be placed directly adjacent to the hip or valley. (Exception: roof slopes $\le$ 2:12).
 
 > IFC 605.11.3.2.4 Residential buildings with smoke ventilation. Panels/modules installed on residential buildings shall be located no higher than 3 feet below the ridge in order to allow for fire department smoke ventilation operations.
+
+![IFC](IFC.png)
+
 
 ## Land use code
 

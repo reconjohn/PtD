@@ -1,0 +1,2 @@
+# Concerns identified by interviews
+One critical piece in having a solar ready new construction project is working with architects and general contractors to address obstructions early in the design process. Pluming roof vents, sky lights, chimneys, HVAC equipment, etc. that can be located outside of a proposed solar array and it's designated safety walk way that dramatically increases the ease of a PV installation.
