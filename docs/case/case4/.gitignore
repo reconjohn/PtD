@@ -1,2 +1,4 @@
 *.html
 *.pdf
+*.jpg
+!DSC00072.jpg

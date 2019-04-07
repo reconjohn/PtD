@@ -32,7 +32,7 @@ header-includes:
 * Annual Energy production: 10,355 kWh (estimated)
 
 <p align="center">
-  <img src="Color OH.jpg">
+  <img src="Color OH.png">
 </p>
 <p align="center">Roof with PV overview <p align="center">
 

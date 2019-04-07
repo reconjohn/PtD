@@ -1,2 +1,4 @@
 *.html
 *.pdf
+*.jpg
+!360443rdplans5.jpg

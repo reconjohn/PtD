@@ -55,7 +55,7 @@ header-includes:
 <p align="center">Roof overvie in google <p align="center">
 
 <p align="center">
-  <img src="plan.jpg">
+  <img src="plan.png">
 </p>
 <p align="center">Site plan <p align="center">
 
