@@ -15,12 +15,7 @@ header-includes:
 * Environmental Certification: Emerald star (3rd in the nation)
 * Specs: single-family, 3 stories, 3 Bedrooms, 2.5 Bathrooms
 
-> Grean features: triple-glazed windows, radiant heating, a heat recovery ventilation system, electric vehicle charging, use of salvaged materials including truckloads of wood and corrugated metal taken from a deconstructed barn in Oregon’s Willamette Valley. This project got the 2015 Seattle Design Awards, Best Green Design. 
-
-```
-Emerald star certified homes:
-required to achieve net zero energy using a renewable source in addtion to 70% reduction in water use, 90% reclaimed or FSC certified wood materials, and exceptional indoor air quality.
-```
+> Emerald star certified homes: required to achieve net zero energy using a renewable source in addtion to 70% reduction in water use, 90% reclaimed or FSC certified wood materials, and exceptional indoor air quality.
 
 ## Solar-ready information 
 

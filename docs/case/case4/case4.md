@@ -18,7 +18,7 @@ header-includes:
 * Solar contractor: Artisan
 * Solar PV: 300W * 35 = 10.5kW
 * Inverter type: Power optimizer
-* Roof material: Compositions
+* Roof material: Compositions 
 * Tie-off: 
 * Roof pitch: 
 * Access: With a ladder
