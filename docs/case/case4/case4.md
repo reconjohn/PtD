@@ -8,7 +8,7 @@ header-includes:
 ---
 
 
-# Case study 3 - 3120 175th Pl. SE, Bothell
+# Case study 4 - 3120 175th Pl. SE, Bothell
 
 * Year PV installed: 2018
 
