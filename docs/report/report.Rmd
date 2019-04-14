@@ -3,10 +3,10 @@ title: "Prevention through Design (PtD) to Make Solar-Ready Houses Safe for Sola
 author: "Hyun Woo Lee, John Gambatese, Yohan Min"
 date: "April 14, 2019"
 output:
-  word_document: default
   html_document:
     df_print: paged
     keep_md: yes
+  word_document: default
   pdf_document: default
 header-includes:
 - \usepackage{float}

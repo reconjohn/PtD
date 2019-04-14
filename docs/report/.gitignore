@@ -3,3 +3,4 @@
 *.xlsx
 *.docx
 *.gan
+!report.pdf
