@@ -25,5 +25,6 @@ Using mixed methods, the specific tasks of the research are as follows:
 * [Solar-ready code](https://github.com/reconjohn/PtD/blob/master/docs/energy_code.md)
 * [OSHA](https://github.com/reconjohn/PtD/blob/master/docs/osha.md)
 * [Interview findings](https://github.com/reconjohn/PtD/blob/master/docs/solar_ready.md)
+* [Final report](https://github.com/reconjohn/PtD/blob/master/docs/report/reportA.md)
 
 
