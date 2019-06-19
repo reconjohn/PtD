@@ -1,64 +1,6 @@
----
-title: "Prevention through Design (PtD) to Make Solar-Ready Houses Safe for Solar Workers"
-author: "Hyun Woo Lee, John Gambatese, Yohan Min"
-date: "June 8, 2019"
-output:
-  html_document:
-    df_print: paged
-    keep_md: yes
-  pdf_document: default
-  word_document: default
-bibliography: CPWR.bib
-endnote: no
-header-includes:
-- \usepackage{float}
-- \floatplacement{figure}{H}
-- \usepackage[fontsize=11pt]{scrextend}
-csl: journal-of-construction-engineering-and-management.csl
-always_allow_html: yes
----
+"Prevention through Design (PtD) to Make Solar-Ready Houses Safe for Solar Workers"
 
-<style type="text/css">
-
-body{ /* Normal  */
-      font-size: 11px;
-  }
-td {  /* Table  */
-  font-size: 8px;
-}
-h1.title {
-  font-size: 34px;
-  color: DarkRed;
-}
-h1 { /* Header 1 */
-  font-size: 28px;
-  color: DarkBlue;
-}
-h2 { /* Header 2 */
-    font-size: 24px;
-  color: DarkBlue;
-}
-h3 { /* Header 3 */
-  font-size: 20px;
-  font-family: "Times New Roman", Times, serif;
-  color: DarkBlue;
-}
-h4 { /* Header 4 */
-  font-size: 18px;
-  font-family: "Times New Roman", Times, serif;
-  color: DarkBlue;
-}
-code.r{ /* Code block */
-    font-size: 12px;
-}
-pre { /* Code block - determines code spacing between lines */
-    font-size: 14px;
-}
-</style>
-
-
-
-
+Yohan Min
 
 # Introduction
 
@@ -89,7 +31,7 @@ In addition, energy codes were reviewed to identify the safety features in the r
 Solar-ready requirements and suggestions, in general found in the energy codes and researches [@holmSolarReadyBuildingDesign2017], mainly focus on securing solar zones for the easier future implementation and installation in consideration of dimension, area and orientation. A solar zone refers to a designated area for the future installation of solar panels on the roof or overhang without interruption due to shade, penetrations, and obstructions [@cec2016BuildingEnergy2016]. These codes demand solar zone to be larger than a certain area depending on the total available roof area in addition to load, electric interconnection, and documentation requirements. While these requirements are primarily to ensure reserved spaces for the future solar panels on the roof, having solar zones itself is expected to entail occupationally safer conditions for installers. It is because securing a solar zone will prevent any obstructions from occurring on the roof where a solar system is going to be installed. Obstruction on roof is the one of factors causing tripping hazards.
 
 
-# Investigate and design features and the components
+# Investigate design features and components
 
 A series of interviews with industry practitioners were performed to capture specific features that can be considered for improved safety of solar installations. All located in the Pacific Northwest, the interviewees were identified through the previous CPWR study and the research team's connections with industry. The team tried to select a diverse set of the professionals for interviews so as to capture broad perspectives from the field installers to the company principals. A total of 12 industry professionals were interviewed. The interviewees included one sustainability consultant, three solar contractors, one general contractor, two electric professionals, and five designers (including two principals). The interviews led to identification of design features with recommendations to improve safety of installers for rooftop solar installation.
 
@@ -580,7 +522,7 @@ Three BIM models are presented for designers to refer to for implementing PtD du
 
 * Access pathways around solar zones and close to hip, valley, eave and edge are applied with 3-foot-wide to prevent installers from falling. 
 
-* Conduit, wiring systems, and raceways for photovoltaic circuits are presented in close proximity to ridge, hip or valley for the purpose of visualization, While conduit is suggested to run inside walls during new construction due to its easier, safer, and more economical installation in addition to aesthetics.
+* Conduit, wiring systems, and raceways for photovoltaic circuits are presented in close proximity to ridge, hip or valley for the purpose of visualization, while conduit is suggested to run inside walls during new construction due to its easier, safer, and more economical installation in addition to aesthetics.
 
 ![3D model of the benchmark solar-ready house (composition roof)](3d_2.png)
 
