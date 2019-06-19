@@ -1,6 +1,6 @@
-"Prevention through Design (PtD) to Make Solar-Ready Houses Safe for Solar Workers"
+# Prevention through Design (PtD) to Make Solar-Ready Houses Safe for Solar Workers
 
-Yohan Min
+### Yohan Min
 
 # Introduction
 
