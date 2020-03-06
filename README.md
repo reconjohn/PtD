@@ -19,11 +19,11 @@ The key findings of this study are:
 
 * The identified design features include seven components in three categories:
 
-  *Solar Zone Features: Solar Zone Area, Solar Zone Material, and Solar Zone Pitch
+  * Solar Zone Features: Solar Zone Area, Solar Zone Material, and Solar Zone Pitch
   
-  *Installation Features: Fall Protection and Roof Access
+  * Installation Features: Fall Protection and Roof Access
   
-  *Electrical Features: Conduit and Inverter
+  * Electrical Features: Conduit and Inverter
 
 * This study provides evidence that PtD can improve solar installer safety by proactively eliminating safety hazards and mitigating risk — verified through interviews, surveys, and case studies.
 
