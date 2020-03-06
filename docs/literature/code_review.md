@@ -90,7 +90,7 @@ If not met, then access points to be,
 
 > IFC 605.11.3.2.4 Residential buildings with smoke ventilation. Panels/modules installed on residential buildings shall be located no higher than 3 feet below the ridge in order to allow for fire department smoke ventilation operations.
 
-![IFC](../../pic/IFC.png)
+![IFC](../../../pic/IFC.png)
 
 
 ## Land use code
