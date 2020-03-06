@@ -1,6 +1,64 @@
-# Prevention through Design (PtD) to Make Solar-Ready Houses Safe for Solar Workers
+---
+title: "Prevention through Design (PtD) to Make Solar-Ready Houses Safe for Solar Workers"
+author: "Hyun Woo Lee, John Gambatese, Yohan Min"
+date: "June 8, 2019"
+output:
+  html_document:
+    df_print: paged
+    keep_md: yes
+  pdf_document: default
+  word_document: default
+bibliography: CPWR.bib
+endnote: no
+header-includes:
+- \usepackage{float}
+- \floatplacement{figure}{H}
+- \usepackage[fontsize=11pt]{scrextend}
+csl: journal-of-construction-engineering-and-management.csl
+always_allow_html: yes
+---
 
-### Yohan Min
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 10px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 34px;
+  color: DarkRed;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkBlue;
+}
+h2 { /* Header 2 */
+    font-size: 24px;
+  color: DarkBlue;
+}
+h3 { /* Header 3 */
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkBlue;
+}
+h4 { /* Header 4 */
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkBlue;
+}
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+</style>
+
+
+
+
 
 # Introduction
 
@@ -203,12 +261,12 @@ Figures below show the satellite images of google map for the solar panels insta
 
 <center>
 <div class="figure">
-<img src="../case/case1/google.png" alt="Case Studies 1 and 2 (Google map accessed in Mar. 2019)" width="299" /><img src="../case/case2/google.png" alt="Case Studies 1 and 2 (Google map accessed in Mar. 2019)" width="348" />
+<img src="../case_studies/case1/google.png" alt="Case Studies 1 and 2 (Google map accessed in Mar. 2019)" width="299" /><img src="../case_studies/case2/google.png" alt="Case Studies 1 and 2 (Google map accessed in Mar. 2019)" width="348" />
 <p class="caption">Case Studies 1 and 2 (Google map accessed in Mar. 2019)</p>
 </div>
 
 <div class="figure">
-<img src="../case/case3/google.png" alt="Case Studies 3 and 4 (Google map accessed in Mar. 2019)" width="283" /><img src="../case/case4/google.png" alt="Case Studies 3 and 4 (Google map accessed in Mar. 2019)" width="371" />
+<img src="../case_studies/case3/google.png" alt="Case Studies 3 and 4 (Google map accessed in Mar. 2019)" width="283" /><img src="../case_studies/case4/google.png" alt="Case Studies 3 and 4 (Google map accessed in Mar. 2019)" width="371" />
 <p class="caption">Case Studies 3 and 4 (Google map accessed in Mar. 2019)</p>
 </div>
 
@@ -319,49 +377,6 @@ Case Study 4 represents a common residential house not solar-ready. It was told 
   </tr>
   <tr grouplength="6"><td colspan="5" style="border-bottom: 1px solid;"><strong>Solar system</strong></td></tr>
 <tr>
-   <td style="text-align:left; padding-left: 2em;" indentlevel="1"> PV (ea) </td>
-   <td style="text-align:left;"> 28 </td>
-   <td style="text-align:left;"> 27 </td>
-   <td style="text-align:left;"> 29 </td>
-   <td style="text-align:left;"> 35 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left; padding-left: 2em;" indentlevel="1"> A module (W) </td>
-   <td style="text-align:left;"> 230 </td>
-   <td style="text-align:left;"> 270 </td>
-   <td style="text-align:left;"> 280 </td>
-   <td style="text-align:left;"> 300 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left; padding-left: 2em;" indentlevel="1"> Capacity (kW) </td>
-   <td style="text-align:left;"> 6.44 </td>
-   <td style="text-align:left;"> 7.29 </td>
-   <td style="text-align:left;"> 8.1 </td>
-   <td style="text-align:left;"> 10.5 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left; padding-left: 2em;" indentlevel="1"> System weights (lbs) </td>
-   <td style="text-align:left;"> 1176 </td>
-   <td style="text-align:left;"> 1134 </td>
-   <td style="text-align:left;"> 1218 </td>
-   <td style="text-align:left;"> 1502 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left; padding-left: 2em;" indentlevel="1"> lbs/ sqft (estimated) </td>
-   <td style="text-align:left;"> 2.39 </td>
-   <td style="text-align:left;"> 2.39 </td>
-   <td style="text-align:left;"> 2.39 </td>
-   <td style="text-align:left;"> 2.37 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left; padding-left: 2em;" indentlevel="1"> Inverter type </td>
-   <td style="text-align:left;"> String </td>
-   <td style="text-align:left;"> Micro </td>
-   <td style="text-align:left;"> Mirco </td>
-   <td style="text-align:left;"> Optimizer </td>
-  </tr>
-  <tr grouplength="6"><td colspan="5" style="border-bottom: 1px solid;"><strong>Installation</strong></td></tr>
-<tr>
    <td style="text-align:left; padding-left: 2em;" indentlevel="1"> Anchor point </td>
    <td style="text-align:left;"> Yes </td>
    <td style="text-align:left;"> Yes </td>
@@ -403,6 +418,49 @@ Case Study 4 represents a common residential house not solar-ready. It was told 
    <td style="text-align:left;"> 2015 </td>
    <td style="text-align:left;"> 2018 </td>
   </tr>
+  <tr grouplength="6"><td colspan="5" style="border-bottom: 1px solid;"><strong>Installation</strong></td></tr>
+<tr>
+   <td style="text-align:left; padding-left: 2em;" indentlevel="1"> PV (ea) </td>
+   <td style="text-align:left;"> 28 </td>
+   <td style="text-align:left;"> 27 </td>
+   <td style="text-align:left;"> 29 </td>
+   <td style="text-align:left;"> 35 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left; padding-left: 2em;" indentlevel="1"> A module (W) </td>
+   <td style="text-align:left;"> 230 </td>
+   <td style="text-align:left;"> 270 </td>
+   <td style="text-align:left;"> 280 </td>
+   <td style="text-align:left;"> 300 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left; padding-left: 2em;" indentlevel="1"> Capacity (kW) </td>
+   <td style="text-align:left;"> 6.44 </td>
+   <td style="text-align:left;"> 7.29 </td>
+   <td style="text-align:left;"> 8.1 </td>
+   <td style="text-align:left;"> 10.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left; padding-left: 2em;" indentlevel="1"> System weights (lbs) </td>
+   <td style="text-align:left;"> 1176 </td>
+   <td style="text-align:left;"> 1134 </td>
+   <td style="text-align:left;"> 1218 </td>
+   <td style="text-align:left;"> 1502 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left; padding-left: 2em;" indentlevel="1"> lbs/ sqft (estimated) </td>
+   <td style="text-align:left;"> 2.39 </td>
+   <td style="text-align:left;"> 2.39 </td>
+   <td style="text-align:left;"> 2.39 </td>
+   <td style="text-align:left;"> 2.37 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left; padding-left: 2em;" indentlevel="1"> Inverter type </td>
+   <td style="text-align:left;"> String </td>
+   <td style="text-align:left;"> Micro </td>
+   <td style="text-align:left;"> Mirco </td>
+   <td style="text-align:left;"> Optimizer </td>
+  </tr>
 </tbody>
 </table>
 
@@ -417,7 +475,7 @@ Furthermore, BIM model was developed as a benchmark of solar-ready houses featur
 
 <center>
 <div class="figure">
-<img src="../case/case2/dwelldevelopmentsolar2.jpg" alt="Solar panels on roof of case studies 2 and 4" width="307" /><img src="../case/case4/ColorOH.png" alt="Solar panels on roof of case studies 2 and 4" width="388" />
+<img src="../case_studies/case2/dwelldevelopmentsolar2.jpg" alt="Solar panels on roof of case studies 2 and 4" width="307" /><img src="../case_studies/case4/ColorOH.png" alt="Solar panels on roof of case studies 2 and 4" width="388" />
 <p class="caption">Solar panels on roof of case studies 2 and 4</p>
 </div>
 </center>

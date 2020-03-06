@@ -3,10 +3,10 @@ title: "Prevention through Design (PtD) to Make Solar-Ready Houses Safe for Sola
 author: "Hyun Woo Lee, John Gambatese, Yohan Min"
 date: "June 8, 2019"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
     keep_md: yes
-  pdf_document: default
   word_document: default
 bibliography: CPWR.bib
 endnote: no
@@ -171,12 +171,12 @@ Figures below show the satellite images of google map for the solar panels insta
 
 <center>
 ```{r fig.show='hold', fig.cap= "Case Studies 1 and 2 (Google map accessed in Mar. 2019)"}
-knitr::include_graphics(c("../case/case1/google.png","../case/case2/google.png"),
+knitr::include_graphics(c("../case_studies/case1/google.png","../case_studies/case2/google.png"),
                         dpi= c(225,210))
 ```
 
 ```{r fig.show='hold', fig.cap= "Case Studies 3 and 4 (Google map accessed in Mar. 2019)"}
-knitr::include_graphics(c("../case/case3/google.png","../case/case4/google.png"),
+knitr::include_graphics(c("../case_studies/case3/google.png","../case_studies/case4/google.png"),
                         dpi= c(223,190))
 ```
 
@@ -203,7 +203,7 @@ Case Study 4 represents a common residential house not solar-ready. It was told 
 
 
 ```{r warning=F, message=F}
-data <- read_excel("../case/compare.xlsx", sheet = 1,col_names = TRUE)[2:6][1:22,]
+data <- read_excel("../case_studies/compare.xlsx", sheet = 1,col_names = TRUE)[2:6][1:22,]
 # View(data)
 
 kable(data, caption = "Summary of case studies") %>%
@@ -224,7 +224,7 @@ Furthermore, BIM model was developed as a benchmark of solar-ready houses featur
 
 <center>
 ```{r fig.show='hold', fig.cap= "Solar panels on roof of case studies 2 and 4"}
-knitr::include_graphics(c("../case/case2/dwelldevelopmentsolar2.jpg","../case/case4/ColorOH.png"),
+knitr::include_graphics(c("../case_studies/case2/dwelldevelopmentsolar2.jpg","../case_studies/case4/ColorOH.png"),
                         dpi= c(500,400))
 ```
 </center>
