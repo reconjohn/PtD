@@ -7,24 +7,16 @@ Solar-ready designs have become a new standard for residential houses in prepara
 ## Key Findings
 
 The key results of this study include:
-
 * Development of a PtD design checklist through a series of interviews and an online survey. The
 design features in the checklist include Solar Zone Features, Installation Features, and Electrical Features.
-
 * Development of three BIM models. The models were developed as illustrative examples of solar ready houses featuring design components that are included in the checklist.
 
 The key findings of this study are:
-
 * The current solar-ready codes and requirements are mainly focused on optimizing energy production by securing solar zones for the future installation of a solar system, while lacking considerations of safety of those who will install the system.
-
 * The identified design features include seven components in three categories:
-
   * Solar Zone Features: Solar Zone Area, Solar Zone Material, and Solar Zone Pitch
-  
   * Installation Features: Fall Protection and Roof Access
-  
   * Electrical Features: Conduit and Inverter
-
 * This study provides evidence that PtD can improve solar installer safety by proactively eliminating safety hazards and mitigating risk — verified through interviews, surveys, and case studies.
 
 ## Research Objectives
